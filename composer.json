@@ -31,7 +31,7 @@
     "scrutinizer/ocular": "^1.4",
     "squizlabs/php_codesniffer": "^2.9",
     "monolog/monolog": "^1.23",
-    "phpmd/phpmd": "^2.6"
+    "germanpersonnel/phpmd-phpmd": "^2.6"
   },
   "minimum-stability": "stable",
   "autoload": {
